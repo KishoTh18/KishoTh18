@@ -1,27 +1,17 @@
 <div align="center">
-
-  <!-- Anime Boy Image (left side) -->
-  <img src="https://i.pinimg.com/originals/9b/96/d5/9b96d5d2cb5b2c107f679325c334a01b.png" width="25%" align="right" />
-
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hey+There!;I'm+Anbu%2C+a+Web+Dev+%26+Tech+Explorer+%F0%9F%94%A5" width="70%" />
-
-  <br><br>
-
-  <!-- Bio Section -->
-  <pre>
-🎓 IT Undergraduate • Passionate Web Developer • Future Techpreneur
-💡 React • Node.js • TypeScript • PHP • Laravel • MySQL
-📚 Teaching tech through games, apps & creative tools
-🧠 Exploring AI • UI/UX • Mobile Apps
-🎮 Anime • Music • Late Night Coding • Bus Diaries ✍️
-  </pre>
-
-  <br><br>
-
-  <!-- Cute Anime-style GIF -->
-  <img src="https://media.tenor.com/UnFx-k_lSckAAAAC/amalie-steiness.gif" height="80" />
-
-  <br><br><br>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hello;I'm+Kisho%2C+a+Web+Developer+and+magical+Boy+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BIT(Hons) in NETWORKING & MC  • web dev • software Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
 
 </div>
